@@ -1,0 +1,12 @@
+1. Write an ALP to find the factorial of a given number
+
+2. Based on a number in R0, store
+  -1 in R1 if R0 is 0
+  -2 in R1 if R0 is positive
+  -3 in R1 if R0 is negative
+
+3. Write an ALP to add two numbers loaded from memory and store the result in memory
+
+4. Write an ALP to copy n numbers from location A to location B
+
+5. Write an ALP to add an array of n numbers from memory
