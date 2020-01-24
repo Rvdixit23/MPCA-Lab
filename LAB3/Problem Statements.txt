@@ -1,0 +1,11 @@
+1. Write an ALP to add an array of bytes from memory
+
+2. Write an ALP to perform Linear Search on an array from memory
+  - Store the zero based index of element in R7 if found
+  - Else store -1 in R7
+ 
+3. Write an ALP to store n terms of the Fibnacci series into memory
+
+4. Write an ALP to perform convolution on 2 arrays using MUL
+
+5. Write an ALP to perform convolution on 2 arrays using MLA
